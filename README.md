@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 make sure to install npm with the command 'npm install' inside the proyect. This is important to use the command 'npm start' to run the app.
 
+# Navigation
+
+Firts view when starting the app is the HomePage component. In this view you can navigate to the 'Testimonials' view and the 'Configuration' view clicking their respetive link inside the main navbar (located on the top). For the purpose of this test when navigating to the 'Testimonials' and the 'Configuration' views you have to NAVIGATE BACK to the HomePage view, clicking the 'Home" link inside the main navbar (located on the top), because in that view are the options in the main navbar to navigate to the 'Testimonials' and 'Configuration' views, this was build this way to not interfiere with the provided original design.
+
 ## Available Scripts
 
 In the project directory, you can run:
