@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##IMPORTANT
+# IMPORTANT
 
 make sure to install npm with the command 'npm install' inside the proyect. This is important to use the command 'npm start' to run the app.
 
